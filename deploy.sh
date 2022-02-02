@@ -16,6 +16,6 @@ git add -A
 git commit -m 'Deploying to Github Pages'
 
 # if you are deploying to https://<USERNAME>.github.io
-git push -f git@github.com:niditakhan/niditakhan.github.io.git main
+git push
 
 cd -
