@@ -1,7 +1,7 @@
 module.exports = {
   title: "Nomadic Settler",
   description: "Trying to figure things out as they come, or at least ponder over them- obsessively.",
-  base: "/blog",
+  base: "/blog/",
   theme: "casper",
   head: [["link", { rel: "icon", href: "/favicon.png" }]],
   markdown: {
