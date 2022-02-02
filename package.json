@@ -4,12 +4,15 @@
   "description": "",
   "main": "config.js",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "vuepress-theme-casper": "^3.0.1"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
   }
 }
